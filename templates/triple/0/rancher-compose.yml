@@ -1,0 +1,4 @@
+.catalog:
+  name: "Triple"
+  version: "v1"
+  description: "Just a test catalog item"
