@@ -1,4 +1,4 @@
 .catalog:
-  name: "Triple"
+  name: "Example 3 services"
   version: "v1"
   description: "Just a test catalog item"

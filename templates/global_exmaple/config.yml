@@ -1,0 +1,5 @@
+name: example_global_label
+description: |
+  Just a test catalog item to show the global rancher label
+version: v1
+category: Test

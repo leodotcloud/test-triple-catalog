@@ -1,0 +1,4 @@
+.catalog:
+  name: "example_global_label"
+  version: "v1"
+  description: "Test catalog item to show the usage of global rancher label"
