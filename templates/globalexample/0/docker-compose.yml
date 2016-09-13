@@ -3,4 +3,4 @@ nato:
     ports:
         - 41011:80
     labels:
-        - io.rancher.scheduler.global: 'true'
+        io.rancher.scheduler.global: 'true'
